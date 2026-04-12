@@ -113,7 +113,3 @@ npm run dev
 ```bash
 npm run build
 ```
-
-## 팀 정보
-
-**카피바라 원정대**
